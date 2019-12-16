@@ -1,0 +1,9 @@
+c:\users\roi\documents\visual studio 2015\Projects\ClientSideProject\ClientSideProject\bin\Debug\ClientSideProject.exe.config
+c:\users\roi\documents\visual studio 2015\Projects\ClientSideProject\ClientSideProject\bin\Debug\ClientSideProject.exe
+c:\users\roi\documents\visual studio 2015\Projects\ClientSideProject\ClientSideProject\bin\Debug\ClientSideProject.pdb
+c:\users\roi\documents\visual studio 2015\Projects\ClientSideProject\ClientSideProject\obj\Debug\ClientSideProject.csprojResolveAssemblyReference.cache
+c:\users\roi\documents\visual studio 2015\Projects\ClientSideProject\ClientSideProject\obj\Debug\ClientSideProject.exe
+c:\users\roi\documents\visual studio 2015\Projects\ClientSideProject\ClientSideProject\obj\Debug\ClientSideProject.pdb
+C:\Users\Roi\Documents\Visual Studio 2015\Projects\ClientSocketProject\ClientSideProject\bin\Debug\ClientSideProject.exe.config
+C:\Users\Roi\Documents\Visual Studio 2015\Projects\ClientSocketProject\ClientSideProject\obj\Debug\ClientSideProject.exe
+C:\Users\Roi\Documents\Visual Studio 2015\Projects\ClientSocketProject\ClientSideProject\obj\Debug\ClientSideProject.pdb
